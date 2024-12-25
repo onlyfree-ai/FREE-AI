@@ -1,2 +1,4 @@
 ## A curated list of free-to-use AI tools & chatbots
-### Chatbots
+--- 
+### Collections:
+1. [Onlyfree.AI](https://www.onlyfree.ai)
